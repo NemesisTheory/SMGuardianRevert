@@ -1,0 +1,9 @@
+{
+"name": "SMGuardianRevert",
+"displayName": "SM Guardian Revert",
+"author": "NemesisTheory",
+"description": "Reverts the Stained Mountain Guardian back from Quasar to Scepter.",
+"version": "1.0",
+"minGameVersion": "126",
+"hidden": true
+}
